@@ -1,0 +1,24 @@
+COLLEGE NAME:RNSIT
+LOCATION:Bengalore
+
+DEPARTMENTS: CSE, ISE, ECE, Mechanical, Civil
+
+TIMINGS:
+- Classes: 9:00 AM to 4:30 PM, Monday to Saturday
+- Library: 8:30 AM to 6:00 PM
+
+FEES (per year):
+- 750000
+
+CONTACTS:
+- Admissions office: email / phone
+- Exam section: email / phone
+
+EVENTS:
+- Annual fest: Kannada Rajyotsava on 1-Nov
+- Hackathon: 1-jan-2026
+
+RULES:
+- Attendance requirement: 75%
+- Add ID card rules, dress code, etc.
+
